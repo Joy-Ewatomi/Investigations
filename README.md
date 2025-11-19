@@ -8,7 +8,7 @@
 ## 📊 Journey Overview
 
 **Investigator:** Joy Ewatomi
-**Start Date:** November 2025  
+**Start Date:** October 2025  
 **Current Status:** Day 26/90 (28.9% complete)  
 **Goal:** Master OSINT fundamentals and build professional investigation portfolio
 
