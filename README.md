@@ -172,7 +172,7 @@
 
 **Building ShadowNode Intelligence Agency** - Independent cybersecurity investigation firm launching September 2026.
 
-- **LinkedIn:** [Joy Ewatomi Arokoyo](https://www.linkedin.com/in/joy-ewatomi-559250366/)
+- **LinkedIn:** [Joy Ewatomi](https://www.linkedin.com/in/joy-ewatomi-559250366/?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFrOEBUB7WRApVKjKcCwyYSzcPX5VUJYQRg)
 - **Twitter:** [@joy_Elvera](https://twitter.com/joy_Elvera)
 - **Email:** joravytech@gmail.com
 
