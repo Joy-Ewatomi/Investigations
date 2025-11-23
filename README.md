@@ -65,17 +65,6 @@ Outcome: Complete profile of person-of-interest linked to hacking group and cred
 Certification: Introduction to OSINT - Security Blue Team (November 2025).    
 **[View Full Case Study →](./Investigations/06-Osint-Investigation-Challenge/)**
 
-### Python Tools Built
-**Domain Intelligence Analyzer**
-Purpose: Automated WHOIS lookup and domain analysis
-Features:
-Owner/organization identification
-Registrar verification
-Domain age calculation
-Expiration tracking
-Clean, investigator, friendly output
-Tech Stack: Python, python-whois library, datetime.  
-**[View code →](./Pythonscripts/01-Domain-Intelligence-Analyzer/)**
 
 ## 🛠️ Tools & Technologies
 
