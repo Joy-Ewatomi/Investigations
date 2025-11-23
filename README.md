@@ -9,7 +9,6 @@
 
 **Investigator:** Joy Ewatomi
 **Start Date:** October 2025  
-**Current Status:** Day 26/90 (28.9% complete)  
 **Goal:** Master OSINT fundamentals and build professional investigation portfolio
 
 **Mission:** Operating from the shadows to bring truth to light 🔐
@@ -18,7 +17,7 @@
 
 | Phase | Days | Focus Area | Status | Cases |
 |-------|------|------------|--------|-------|
-| Foundation | 1-30 | Core OSINT Techniques | 🔄 In Progress | 5 |
+| Foundation | 1-30 | Core OSINT Techniques | 🔄 In Progress | 6 |
 | Intermediate | 31-60 | Advanced Methods | ⏳ Upcoming | - |
 | Advanced | 61-90 | Specialization | ⏳ Upcoming | - |
 
@@ -26,7 +25,7 @@
 
 ## 🔍 Investigation Portfolio
 
-### Documented Investigations: 5
+### Documented Investigations: 6
 
 #### 1. Corporate Intelligence - Tesla, Inc.
 **Type:** Business Intelligence & Governance Analysis  
@@ -58,6 +57,25 @@
 **Tools:** WHOIS Lookup, DNS Analysis, IP Intelligence  
 **Outcome:** Verified ownership (OpenAI), analyzed security posture (6 protection locks), mapped infrastructure (Cloudflare)  
 **[View Full Case Study →](./Investigations/05-Domain-Intelligence-ChatGPT/)**
+
+#### 6. OSINT Investigation Challenge - Security Blue Team
+Type: Threat Actor Profiling & MSP Breach Investigation
+Tools: Twitter OSINT, Social Media Intelligence, Evidence Collection
+Outcome: Complete profile of person-of-interest linked to hacking group and credential theft
+Certification: Introduction to OSINT - Security Blue Team (November 2025).    
+**[View Full Case Study →](./Investigations/06-Osint-Investigation-Challenge/)**
+
+### Python Tools Built
+**Domain Intelligence Analyzer**
+Purpose: Automated WHOIS lookup and domain analysis
+Features:
+Owner/organization identification
+Registrar verification
+Domain age calculation
+Expiration tracking
+Clean, investigator, friendly output
+Tech Stack: Python, python-whois library, datetime.  
+**[View code →](./Pythonscripts/01-Domain-Intelligence-Analyzer/)**
 
 ## 🛠️ Tools & Technologies
 
@@ -109,20 +127,22 @@
 ## 🎓 Key Lessons Learned
 
 **From Tesla Investigation (Day 12):**
-> "OSINT isn't about fancy tools, it's about systematic methodology, patience, and ethical research practices."
+> OSINT isn't about fancy tools, it's about systematic methodology, patience, and ethical research practices.
 
 **From Reverse Image Search (Day 18):**
-> "Same image appears across multiple sites, often without credit. Reverse search reveals the truth."
+> Same image appears across multiple sites, often without credit. Reverse search reveals the truth.
 
 **From Username Enumeration (Day 19):**
-> "Tools find usernames. Investigators verify identity. One username can belong to dozens of people - verification methodology is everything."
+> Tools find usernames. Investigators verify identity. One username can belong to dozens of people, verification methodology is everything.
 
 **From Phone OSINT (Day 22):**
-> "Phone numbers are identity gateways. Understanding phone OSINT serves dual purpose - investigators can verify information, users can understand what they're exposing."
+> Phone numbers are identity gateways. Understanding phone OSINT serves dual purpose, investigators can verify information, users can understand what they're exposing.
 
 **From Domain Intelligence (Day 25):**
-> "OSINT isn't just social media - it's understanding the digital infrastructure behind every online presence."
+> OSINT isn't just social media, it's understanding the digital infrastructure behind every online presence.
 
+**From Security Blue Team Challenge:**
+> Real investigations require systematic evidence collection across multiple sources. One tool isn't enough, you need methodology.
 ## 🚀 Next Steps
 
 ### Upcoming Focus Areas:
@@ -176,17 +196,8 @@
 - **Twitter:** [@joy_Elvera](https://twitter.com/joy_Elvera)
 - **Email:** joravytech@gmail.com
 
-**Follow the Journey:** I'm documenting every day publicly - from beginner to professional investigator.
+**Follow the Journey:** I'm documenting every day publicly, from beginner to professional investigator.
 
-## 📊 Statistics
-
-**As of Day 26:**
-- **Total Days:** 26/90 (28.9%)
-- **Investigations Documented:** 5 (detailed case studies)
-- **Tools Mastered:** 10+
-- **Platforms Analyzed:** 700+ (via WhatsMyName)
-- **Hours Invested:** ~90 hours
-- **Python Scripts Created:** 0 (starting Day 27!)
 
 ## 🎯 Methodology
 
@@ -204,8 +215,6 @@ My investigation framework emphasizes:
 **For my accountability:** Public commitment to finish strong  
 **For my future:** Portfolio that proves expertise
 
-**"Truth Through Technology | Justice Through Investigation"**
+**Truth Through Technology | Justice Through Investigation**
 
 *Operating from the shadows to bring truth to light* 🔐
-
-*Last Updated: Day 26 - November 19, 2025*
