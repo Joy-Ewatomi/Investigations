@@ -2,8 +2,6 @@
 **ShadowNode Intelligence Agency | Building in Public**
 
 ![OSINT](https://img.shields.io/badge/OSINT-Expert%20in%20Training-blue)
-![Days](https://img.shields.io/badge/Progress-Day%2026%2F90-orange)
-![Investigations](https://img.shields.io/badge/Cases%20Documented-5+-green)
 
 ## 📊 Journey Overview
 
@@ -15,17 +13,16 @@
 
 ## 🎯 Progress Tracker
 
-| Phase | Days | Focus Area | Status | Cases |
-|-------|------|------------|--------|-------|
-| Foundation | 1-30 | Core OSINT Techniques | 🔄 In Progress | 6 |
-| Intermediate | 31-60 | Advanced Methods | ⏳ Upcoming | - |
-| Advanced | 61-90 | Specialization | ⏳ Upcoming | - |
+| Phase | Days | Focus Area |
+|-------|------|------------|
+| Foundation | 1-30 | Core OSINT Techniques |
+| Intermediate | 31-60 | Advanced Methods |
+| Advanced | 61-90 | Specialization |
 
-**Current Focus:** IP Intelligence & Network Mapping
 
 ## 🔍 Investigation Portfolio
 
-### Documented Investigations: 6
+### Documented Investigations
 
 #### 1. Corporate Intelligence - Tesla, Inc.
 **Type:** Business Intelligence & Governance Analysis  
@@ -101,7 +98,7 @@ Certification: Introduction to OSINT - Security Blue Team (November 2025).
 - [x] Domain & infrastructure analysis
 - [x] Metadata extraction & analysis
 - [x] Corporate intelligence gathering
-- [ ] IP geolocation & ASN analysis (Day 26+)
+- [ ] IP geolocation & ASN analysis
 - [ ] Dark web OSINT (Days 61-75)
 - [ ] Python automation (Days 27+)
 
