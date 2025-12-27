@@ -55,13 +55,6 @@
 **Outcome:** Verified ownership (OpenAI), analyzed security posture (6 protection locks), mapped infrastructure (Cloudflare)  
 **[View Full Case Study →](./05-Domain-Intelligence-ChatGPT/)**
 
-#### 6. OSINT Investigation Challenge - Security Blue Team
-Type: Threat Actor Profiling & MSP Breach Investigation
-Tools: Twitter OSINT, Social Media Intelligence, Evidence Collection
-Outcome: Complete profile of person-of-interest linked to hacking group and credential theft
-Certification: Introduction to OSINT - Security Blue Team (November 2025).    
-**[View Full Case Study →](./06-Osint-Investigation-Challenge/)**
-
 
 ## 🛠️ Tools & Technologies
 
@@ -127,8 +120,6 @@ Certification: Introduction to OSINT - Security Blue Team (November 2025).
 **From Domain Intelligence (Day 25):**
 > OSINT isn't just social media, it's understanding the digital infrastructure behind every online presence.
 
-**From Security Blue Team Challenge:**
-> Real investigations require systematic evidence collection across multiple sources. One tool isn't enough, you need methodology.
 ## 🚀 Next Steps
 
 ### Upcoming Focus Areas:
