@@ -1,4 +1,4 @@
-# Case Study #22: Phone Number OSINT Investigation - Nigeria Focus
+# Case Study #4: Phone Number OSINT Investigation - Nigeria Focus
 
 **Investigation Type:** Phone Number Intelligence & Business Verification  
 **Date:** November 11, 2025 (Day 22/90)  
