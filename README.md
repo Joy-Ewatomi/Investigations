@@ -53,7 +53,7 @@
 **Type:** Domain Verification & Infrastructure Analysis  
 **Tools:** WHOIS Lookup, DNS Analysis, IP Intelligence  
 **Outcome:** Verified ownership (OpenAI), analyzed security posture (6 protection locks), mapped infrastructure (Cloudflare)  
-**[View Full Case Study →](./Investigations/05-Domain-Intelligence-ChatGPT/)**
+**[View Full Case Study →](./05-Domain-Intelligence-ChatGPT/)**
 
 #### 6. OSINT Investigation Challenge - Security Blue Team
 Type: Threat Actor Profiling & MSP Breach Investigation
