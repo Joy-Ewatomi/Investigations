@@ -28,26 +28,26 @@
 **Type:** Business Intelligence & Governance Analysis  
 **Tools:** SEC EDGAR, Social Media Intelligence, GEOINT  
 **Outcome:** Mapped C-suite executives, analyzed Gigafactory locations, identified governance risks  
-**[View Full Case Study →](./Investigations/01-Tesla-Corporate-Intelligence/)**
+**[View Full Case Study →](./01-Tesla-Corporate-Intelligence/)**
 
 #### 2. Reverse Image Search Investigation
 **Type:** Image Verification & Source Attribution  
 **Tools:** Google Images, TinEye, Yandex, Metadata Extraction  
 **Outcome:** Located original photographer, verified timeline (5+ years old), extracted geolocation  
-**[View Full Case Study →](./Investigations/02-Reverse-Image-Search/)**
+**[View Full Case Study →](./02-Reverse-Image-Search/)**
 
 #### 3. Username Enumeration - Celebrity Impersonation
 **Type:** Digital Identity Verification  
 **Tools:** WhatsMyName (697 platforms), Namechk, Advanced Twitter Search  
 **Outcome:** Identified false positives, discovered suspended accounts, cross-referenced with official sources  
-**[View Full Case Study →](./Investigations/03-Username-Enumeration-Davido/)**
+**[View Full Case Study →](./03-Username-Enumeration-Davido/)**
 
 #### 4. Phone Number OSINT - Nigerian Networks
 **Type:** Telecommunications Intelligence  
 **Tools:** Google Dorking, WhatsApp Business, Network Analysis  
 **Outcome:** Identified network operators, discovered business information, mapped infrastructure patterns  
 **Skills:** Nigerian network identification (MTN, Glo, Airtel), WhatsApp Business investigations  
-**[View Full Case Study →](./Investigations/04-Phone-OSINT-Nigeria/)**
+**[View Full Case Study →](./04-Phone-OSINT-Nigeria/)**
 
 #### 5. Domain Intelligence - ChatGPT.com
 **Type:** Domain Verification & Infrastructure Analysis  
@@ -60,7 +60,7 @@ Type: Threat Actor Profiling & MSP Breach Investigation
 Tools: Twitter OSINT, Social Media Intelligence, Evidence Collection
 Outcome: Complete profile of person-of-interest linked to hacking group and credential theft
 Certification: Introduction to OSINT - Security Blue Team (November 2025).    
-**[View Full Case Study →](./Investigations/06-Osint-Investigation-Challenge/)**
+**[View Full Case Study →](./06-Osint-Investigation-Challenge/)**
 
 
 ## 🛠️ Tools & Technologies
